@@ -1,1 +1,1 @@
-[allowlist.txt](https://github.com/user-attachments/files/15937233/allowlist.txt)
+A simple allow list to overwrite the blocklist in adguard and pi hole
