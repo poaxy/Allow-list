@@ -1,0 +1,2 @@
+142.250.178.2 www.googleadservices.com
+216.58.201.102 ad.doubleclick.net
