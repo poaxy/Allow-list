@@ -1,2 +1,4 @@
 www.googleadservices.com
 ad.doubleclick.net
+click.discord.com
+mparticle.weather.com
